@@ -71,7 +71,7 @@ public class NBody {
             for (int j = 0; j<planets.length;j++){
                 planets[j].update(dt, xForces[j], yForces[j]);
             }
-            StdDraw.clear();
+//            StdDraw.clear();
             StdDraw.picture(0,0, "./images/starfield.jpg");
             for (Planet p: planets){
                 p.draw();
