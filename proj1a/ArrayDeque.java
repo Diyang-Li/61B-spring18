@@ -154,28 +154,28 @@ public class ArrayDeque<T> {
     }
 
 
-    public static void main(String[] args) {
-        ArrayDeque<Integer> arr = new ArrayDeque<>();
-//        arr.addLast(1);
-//        arr.addLast(2);
-//        arr.addLast(3);
-//        arr.addLast(4);
-//        arr.addLast(5);
-//        arr.addFirst(6);
-//        arr.addFirst(7);
-//        arr.addFirst(8);
-//        arr.addFirst(9);
-//        arr.addFirst(10);
+//    public static void main(String[] args) {
+//        ArrayDeque<Integer> arr = new ArrayDeque<>();
+////        arr.addLast(1);
+////        arr.addLast(2);
+////        arr.addLast(3);
+////        arr.addLast(4);
+////        arr.addLast(5);
+////        arr.addFirst(6);
+////        arr.addFirst(7);
+////        arr.addFirst(8);
+////        arr.addFirst(9);
+////        arr.addFirst(10);
+////
+////        arr.addLast(11);
+////        arr.addLast(12);
+////        arr.addLast(13);
+////        arr.addLast(14);
+////        arr.addLast(15);
+//        System.out.println(arr.isEmpty());
+//        System.out.println(arr.size());
 //
-//        arr.addLast(11);
-//        arr.addLast(12);
-//        arr.addLast(13);
-//        arr.addLast(14);
-//        arr.addLast(15);
-        System.out.println(arr.isEmpty());
-        System.out.println(arr.size());
-
-    }
+//    }
 
 }
 
